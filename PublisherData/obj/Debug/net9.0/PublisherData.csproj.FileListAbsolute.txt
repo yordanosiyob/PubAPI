@@ -1,0 +1,17 @@
+/Users/dawit/Downloads/PublisherAPI 8/PublisherData/bin/Debug/net9.0/PublisherData.deps.json
+/Users/dawit/Downloads/PublisherAPI 8/PublisherData/bin/Debug/net9.0/PublisherData.runtimeconfig.json
+/Users/dawit/Downloads/PublisherAPI 8/PublisherData/bin/Debug/net9.0/PublisherData.dll
+/Users/dawit/Downloads/PublisherAPI 8/PublisherData/bin/Debug/net9.0/PublisherData.pdb
+/Users/dawit/Downloads/PublisherAPI 8/PublisherData/bin/Debug/net9.0/PublisherDomain.dll
+/Users/dawit/Downloads/PublisherAPI 8/PublisherData/bin/Debug/net9.0/PublisherDomain.pdb
+/Users/dawit/Downloads/PublisherAPI 8/PublisherData/obj/Debug/net9.0/PublisherData.csproj.AssemblyReference.cache
+/Users/dawit/Downloads/PublisherAPI 8/PublisherData/obj/Debug/net9.0/PublisherData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dawit/Downloads/PublisherAPI 8/PublisherData/obj/Debug/net9.0/PublisherData.AssemblyInfoInputs.cache
+/Users/dawit/Downloads/PublisherAPI 8/PublisherData/obj/Debug/net9.0/PublisherData.AssemblyInfo.cs
+/Users/dawit/Downloads/PublisherAPI 8/PublisherData/obj/Debug/net9.0/PublisherData.csproj.CoreCompileInputs.cache
+/Users/dawit/Downloads/PublisherAPI 8/PublisherData/obj/Debug/net9.0/Publishe.C9B3FD54.Up2Date
+/Users/dawit/Downloads/PublisherAPI 8/PublisherData/obj/Debug/net9.0/PublisherData.dll
+/Users/dawit/Downloads/PublisherAPI 8/PublisherData/obj/Debug/net9.0/refint/PublisherData.dll
+/Users/dawit/Downloads/PublisherAPI 8/PublisherData/obj/Debug/net9.0/PublisherData.pdb
+/Users/dawit/Downloads/PublisherAPI 8/PublisherData/obj/Debug/net9.0/PublisherData.genruntimeconfig.cache
+/Users/dawit/Downloads/PublisherAPI 8/PublisherData/obj/Debug/net9.0/ref/PublisherData.dll
