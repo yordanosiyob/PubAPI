@@ -14,12 +14,7 @@ public class PubContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        optionsBuilder.UseSqlServer(
-          "Data Source = (localdb)\\MSSQLLocalDB; Initial Catalog = PubDatabase"
-        ).LogTo(Console.WriteLine,
-                new[] { DbLoggerCategory.Database.Command.Name },
-                LogLevel.Information)
-        .EnableSensitiveDataLogging();
+    optionsBuilder.UseSqlite("Data Source=PubDatabase.db");
     }
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -60,12 +55,5 @@ public class PubContext : DbContext
             new Cover {CoverId = 3, BookId=1,
                 DesignIdeas="A big ear in the clouds?", DigitalOnly = false}};
         modelBuilder.Entity<Cover>().HasData(someCovers);
-
-        modelBuilder.Entity<Author>()
-            .InsertUsingStoredProcedure("AuthorInsert", spbuilder => 
-               spbuilder.HasParameter(a => a.FirstName)
-                        .HasParameter(a => a.LastName)
-                        .HasResultColumn(a => a.AuthorId)
-            );
        }
 }
