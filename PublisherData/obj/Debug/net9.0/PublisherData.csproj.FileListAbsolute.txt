@@ -15,3 +15,4 @@
 /Users/dawit/Downloads/PublisherAPI 8/PublisherData/obj/Debug/net9.0/PublisherData.pdb
 /Users/dawit/Downloads/PublisherAPI 8/PublisherData/obj/Debug/net9.0/PublisherData.genruntimeconfig.cache
 /Users/dawit/Downloads/PublisherAPI 8/PublisherData/obj/Debug/net9.0/ref/PublisherData.dll
+/Users/dawit/Downloads/PublisherAPI 8/PublisherData/obj/Debug/net9.0/PublisherData.sourcelink.json

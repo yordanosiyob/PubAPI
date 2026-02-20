@@ -9,3 +9,4 @@
 /Users/dawit/Downloads/PublisherAPI 8/PublisherDomain/obj/Debug/net9.0/refint/PublisherDomain.dll
 /Users/dawit/Downloads/PublisherAPI 8/PublisherDomain/obj/Debug/net9.0/PublisherDomain.pdb
 /Users/dawit/Downloads/PublisherAPI 8/PublisherDomain/obj/Debug/net9.0/ref/PublisherDomain.dll
+/Users/dawit/Downloads/PublisherAPI 8/PublisherDomain/obj/Debug/net9.0/PublisherDomain.sourcelink.json

@@ -169,3 +169,4 @@
 /Users/dawit/Downloads/PublisherAPI 8/PubAPI/obj/Debug/net9.0/ref/PubAPI.dll
 /Users/dawit/Downloads/PublisherAPI 8/PubAPI/bin/Debug/net9.0/System.Formats.Asn1.dll
 /Users/dawit/Downloads/PublisherAPI 8/PubAPI/bin/Debug/net9.0/System.Text.Json.dll
+/Users/dawit/Downloads/PublisherAPI 8/PubAPI/obj/Debug/net9.0/PubAPI.sourcelink.json
