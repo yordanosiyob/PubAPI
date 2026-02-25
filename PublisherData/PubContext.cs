@@ -13,9 +13,10 @@ public class PubContext : DbContext
     public DbSet<AuthorByArtist> AuthorsByArtist { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-    {
-    optionsBuilder.UseSqlite("Data Source=PubDatabase.db");
-    }
+{
+    optionsBuilder.UseSqlServer("Server=localhost\\SQLEXPRESS;Database=PubAPI_DB;Trusted_Connection=True;");
+}
+
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<AuthorByArtist>().HasNoKey()
