@@ -3,7 +3,9 @@ using PublisherData;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddDbContext<PubContext>();
+builder.Services.AddDbContext<PubContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"))
+);
 
 // Lägger till controllers och ignorerar cykliska referenser i JSON
 builder.Services.AddControllers()

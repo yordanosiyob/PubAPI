@@ -1,0 +1,12 @@
+SET LANGUAGE Swedish;
+
+ALTER PROCEDURE AuthorInsert
+     @FirstName NVARCHAR(MAX),
+     @LastName NVARCHAR(MAX)
+AS
+BEGIN
+     INSERT INTO Authors (FirstName, LastName)
+     VALUES (@FirstName, @LastName)
+
+     SELECT CAST(SCOPE_IDENTITY() AS int) AS AuthorId
+END

@@ -6,16 +6,18 @@ namespace PublisherData;
 
 public class PubContext : DbContext
 {
+    // Lägger till konstruktor som tar DbContextOptions
+    public PubContext(DbContextOptions<PubContext> options) : base(options)
+    {
+    }
+    
     public DbSet<Author> Authors { get; set; }
     public DbSet<Book> Books { get; set; }
     public DbSet<Artist> Artists { get; set; }
     public DbSet<Cover> Covers { get; set; }
     public DbSet<AuthorByArtist> AuthorsByArtist { get; set; }
 
-    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-{
-    optionsBuilder.UseSqlServer("Server=localhost\\SQLEXPRESS;Database=PubAPI_DB;Trusted_Connection=True;");
-}
+
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

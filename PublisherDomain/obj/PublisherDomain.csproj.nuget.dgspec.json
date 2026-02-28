@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dawit/Downloads/PublisherAPI 8/PublisherDomain/PublisherDomain.csproj": {}
+    "C:\\Users\\yorda\\Documents\\PubAPI\\PublisherDomain\\PublisherDomain.csproj": {}
   },
   "projects": {
-    "/Users/dawit/Downloads/PublisherAPI 8/PublisherDomain/PublisherDomain.csproj": {
+    "C:\\Users\\yorda\\Documents\\PubAPI\\PublisherDomain\\PublisherDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dawit/Downloads/PublisherAPI 8/PublisherDomain/PublisherDomain.csproj",
+        "projectUniqueName": "C:\\Users\\yorda\\Documents\\PubAPI\\PublisherDomain\\PublisherDomain.csproj",
         "projectName": "PublisherDomain",
-        "projectPath": "/Users/dawit/Downloads/PublisherAPI 8/PublisherDomain/PublisherDomain.csproj",
-        "packagesPath": "/Users/dawit/.nuget/packages/",
-        "outputPath": "/Users/dawit/Downloads/PublisherAPI 8/PublisherDomain/obj/",
+        "projectPath": "C:\\Users\\yorda\\Documents\\PubAPI\\PublisherDomain\\PublisherDomain.csproj",
+        "packagesPath": "C:\\Users\\yorda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yorda\\Documents\\PubAPI\\PublisherDomain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/dawit/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\yorda\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.308/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
