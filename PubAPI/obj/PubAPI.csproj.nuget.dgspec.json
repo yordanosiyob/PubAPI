@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yorda\\Documents\\PubAPI\\PubAPI\\PubAPI.csproj": {}
+    "C:\\Users\\yorda\\Documents\\PUBAPI\\PUBAPI\\PubAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yorda\\Documents\\PubAPI\\PubAPI\\PubAPI.csproj": {
+    "C:\\Users\\yorda\\Documents\\PUBAPI\\PUBAPI\\PubAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yorda\\Documents\\PubAPI\\PubAPI\\PubAPI.csproj",
+        "projectUniqueName": "C:\\Users\\yorda\\Documents\\PUBAPI\\PUBAPI\\PubAPI.csproj",
         "projectName": "PubAPI",
-        "projectPath": "C:\\Users\\yorda\\Documents\\PubAPI\\PubAPI\\PubAPI.csproj",
+        "projectPath": "C:\\Users\\yorda\\Documents\\PUBAPI\\PUBAPI\\PubAPI.csproj",
         "packagesPath": "C:\\Users\\yorda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yorda\\Documents\\PubAPI\\PubAPI\\obj\\",
+        "outputPath": "C:\\Users\\yorda\\Documents\\PUBAPI\\PUBAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yorda\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,11 +26,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\yorda\\Documents\\PubAPI\\PublisherData\\PublisherData.csproj": {
-                "projectPath": "C:\\Users\\yorda\\Documents\\PubAPI\\PublisherData\\PublisherData.csproj"
+              "C:\\Users\\yorda\\Documents\\PUBAPI\\PublisherData\\PublisherData.csproj": {
+                "projectPath": "C:\\Users\\yorda\\Documents\\PUBAPI\\PublisherData\\PublisherData.csproj"
               },
-              "C:\\Users\\yorda\\Documents\\PubAPI\\PublisherDomain\\PublisherDomain.csproj": {
-                "projectPath": "C:\\Users\\yorda\\Documents\\PubAPI\\PublisherDomain\\PublisherDomain.csproj"
+              "C:\\Users\\yorda\\Documents\\PUBAPI\\PublisherDomain\\PublisherDomain.csproj": {
+                "projectPath": "C:\\Users\\yorda\\Documents\\PUBAPI\\PublisherDomain\\PublisherDomain.csproj"
               }
             }
           }
@@ -57,13 +57,13 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[9.0.13, )"
+              "version": "[9.0.14, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.13, )"
+              "version": "[9.0.14, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -93,14 +93,14 @@
         }
       }
     },
-    "C:\\Users\\yorda\\Documents\\PubAPI\\PublisherData\\PublisherData.csproj": {
+    "C:\\Users\\yorda\\Documents\\PUBAPI\\PublisherData\\PublisherData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yorda\\Documents\\PubAPI\\PublisherData\\PublisherData.csproj",
+        "projectUniqueName": "C:\\Users\\yorda\\Documents\\PUBAPI\\PublisherData\\PublisherData.csproj",
         "projectName": "PublisherData",
-        "projectPath": "C:\\Users\\yorda\\Documents\\PubAPI\\PublisherData\\PublisherData.csproj",
+        "projectPath": "C:\\Users\\yorda\\Documents\\PUBAPI\\PublisherData\\PublisherData.csproj",
         "packagesPath": "C:\\Users\\yorda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yorda\\Documents\\PubAPI\\PublisherData\\obj\\",
+        "outputPath": "C:\\Users\\yorda\\Documents\\PUBAPI\\PublisherData\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yorda\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -115,8 +115,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\yorda\\Documents\\PubAPI\\PublisherDomain\\PublisherDomain.csproj": {
-                "projectPath": "C:\\Users\\yorda\\Documents\\PubAPI\\PublisherDomain\\PublisherDomain.csproj"
+              "C:\\Users\\yorda\\Documents\\PUBAPI\\PublisherDomain\\PublisherDomain.csproj": {
+                "projectPath": "C:\\Users\\yorda\\Documents\\PUBAPI\\PublisherDomain\\PublisherDomain.csproj"
               }
             }
           }
@@ -168,14 +168,14 @@
         }
       }
     },
-    "C:\\Users\\yorda\\Documents\\PubAPI\\PublisherDomain\\PublisherDomain.csproj": {
+    "C:\\Users\\yorda\\Documents\\PUBAPI\\PublisherDomain\\PublisherDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yorda\\Documents\\PubAPI\\PublisherDomain\\PublisherDomain.csproj",
+        "projectUniqueName": "C:\\Users\\yorda\\Documents\\PUBAPI\\PublisherDomain\\PublisherDomain.csproj",
         "projectName": "PublisherDomain",
-        "projectPath": "C:\\Users\\yorda\\Documents\\PubAPI\\PublisherDomain\\PublisherDomain.csproj",
+        "projectPath": "C:\\Users\\yorda\\Documents\\PUBAPI\\PublisherDomain\\PublisherDomain.csproj",
         "packagesPath": "C:\\Users\\yorda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yorda\\Documents\\PubAPI\\PublisherDomain\\obj\\",
+        "outputPath": "C:\\Users\\yorda\\Documents\\PUBAPI\\PublisherDomain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yorda\\AppData\\Roaming\\NuGet\\NuGet.Config"

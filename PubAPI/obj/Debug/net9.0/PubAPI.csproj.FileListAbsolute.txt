@@ -366,3 +366,5 @@ C:\Users\yorda\Documents\PubAPI\PubAPI\obj\Debug\net9.0\refint\PubAPI.dll
 C:\Users\yorda\Documents\PubAPI\PubAPI\obj\Debug\net9.0\PubAPI.pdb
 C:\Users\yorda\Documents\PubAPI\PubAPI\obj\Debug\net9.0\PubAPI.genruntimeconfig.cache
 C:\Users\yorda\Documents\PubAPI\PubAPI\obj\Debug\net9.0\ref\PubAPI.dll
+C:\Users\yorda\Documents\PUBAPI\PUBAPI\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\yorda\Documents\PUBAPI\PUBAPI\bin\Debug\net9.0\System.Text.Json.dll
